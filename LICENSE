@@ -1,6 +1,9 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "Hello, my classmates!" << std::endl;
+int a = 23;
+cout << a << endl;
     return 0;
+
 }
